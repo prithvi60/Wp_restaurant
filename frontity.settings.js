@@ -3,7 +3,7 @@ const settings = {
   "state": {
     "frontity": {
       "url": "https://resto643531463.wordpress.com/",
-      "title": "Restaurant Name",
+      "title": "Restaurant's Name",
       "description": "WordPress and React"
     }
   },
