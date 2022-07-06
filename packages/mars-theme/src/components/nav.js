@@ -33,7 +33,7 @@ const NavContainer = styled.nav`
   width: 848px;
   max-width: 100%;
   box-sizing: border-box;
-  padding: 0 24px;
+  padding: 0 16px;
   margin: 0;
   overflow-x: auto;
 

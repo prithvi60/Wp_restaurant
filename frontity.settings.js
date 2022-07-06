@@ -2,9 +2,9 @@ const settings = {
   "name": "hotel",
   "state": {
     "frontity": {
-      "url": "https://test.frontity.org",
-      "title": "Test Frontity Blog",
-      "description": "WordPress installation for Frontity development"
+      "url": "https://resto643531463.wordpress.com/",
+      "title": "Restaurant Name",
+      "description": "WordPress and React"
     }
   },
   "packages": [
@@ -26,7 +26,7 @@ const settings = {
               "/category/travel/"
             ],
             [
-              "Japan",
+              "Japans",
               "/tag/japan/"
             ],
             [
@@ -45,7 +45,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "url": "https://test.frontity.org"
+          "url": "https://resto643531463.wordpress.com/"
         }
       }
     },
